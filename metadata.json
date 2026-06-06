@@ -1,0 +1,6 @@
+{
+  "name": "HealthGuard AI",
+  "description": "Intelligent Health Monitoring, Wellness Analytics & Early Disease Prediction Platform",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
